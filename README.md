@@ -19,7 +19,7 @@
 ### 💻 项目
 
 1. vue-official-examples 一个基于vite和shadcn-vue复刻vue官方例子的项目
-   [https://github.com/vccyb/Vue-Official-Examplesa](https://github.com/vccyb/Vue-Official-Examplesa)
+   [https://github.com/vccyb/Vue-Official-Examplesa](https://github.com/vccyb/Vue-Official-Examples)
 2. cyb-mini-vue  基于mini-vue学习的项目
     [https://github.com/vccyb/cyb-mini-vue](https://github.com/vccyb/cyb-mini-vue)
 3. readingBox 学习相关的东西都放在里面，属于未输出体系化的原材料，等待进一步输出为博客或者项目
