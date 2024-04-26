@@ -16,6 +16,8 @@
 
 ### 💡 demo
 
+1. icodethis一些demo: [https://icodethis.com/vccyb](https://icodethis.com/vccyb)
+
 ### 💻 项目
 
 1. vue-official-examples 一个基于vite和shadcn-vue复刻vue官方例子的项目
