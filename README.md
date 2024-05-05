@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-你好，我的朋友, 我的博客地址是： [https://chenyubo.vercel.app/](https://chenyubo.vercel.app/)
-
+你好，我的朋友, 
+我的博客地址是： [https://chenyubo.vercel.app/](https://chenyubo.vercel.app/)
+我的profile和简历地址 [https://chenyubo-resume.vercel.app/]
 ### 💁🏻 关于我
 - 一个想成为足够热爱的前端程序员
 - 工作在深圳某公司
