@@ -22,6 +22,7 @@
 ### 💡 demo
 
 1. icodethis一些demo: [https://icodethis.com/vccyb](https://icodethis.com/vccyb)
+2. 2048 game - [https://github.com/vccyb/readingBox/tree/main/Demo%E5%90%88%E9%9B%86/2048](https://github.com/vccyb/readingBox/tree/main/Demo%E5%90%88%E9%9B%86/2048)
 
 ### 💻 项目
 
